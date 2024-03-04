@@ -1,0 +1,17 @@
+// json-server --watch ./src/db/data.json --port 3001
+
+타입스크립트 설치
+npm install typescript @types/node @types/react @types/react-dom @types/jest @types/react-router-dom
+
+react 설치
+
+1. node.js 설치
+2. 프로젝트 설정
+npx create-react-app '프로젝트폴더명'
+3. 실행
+npm start
+
+
+react 폴더를 다운받았을 때 node_modules를 설치해야 한다.
+설치
+npm install
