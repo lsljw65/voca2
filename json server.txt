@@ -15,3 +15,6 @@ npm start
 react 폴더를 다운받았을 때 node_modules를 설치해야 한다.
 설치
 npm install
+
+router를 사용하기 위한 react-router-dom설치
+npm install react-router-dom
