@@ -11,6 +11,10 @@
     {
       "id": "3",
       "day": 3
+    },
+    {
+      "id": "5cfc",
+      "day": 4
     }
   ],
   "words": [
@@ -40,6 +44,34 @@
       "day": 3,
       "eng": "pencil",
       "kor": "연필",
+      "isDone": false
+    },
+    {
+      "id": "313c",
+      "day": "3",
+      "eng": "window",
+      "kor": "창문",
+      "isDone": false
+    },
+    {
+      "id": "df1d",
+      "day": "3",
+      "eng": "house",
+      "kor": "집",
+      "isDone": false
+    },
+    {
+      "id": "5314",
+      "day": "2",
+      "eng": "mouse",
+      "kor": "쥐",
+      "isDone": false
+    },
+    {
+      "id": "a265",
+      "day": "4",
+      "eng": "monkey",
+      "kor": "원숭이",
       "isDone": false
     }
   ]
