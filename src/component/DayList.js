@@ -4,7 +4,10 @@ import useFetch from "../hooks/userFetch";
 // import dummy from "../db/data.json";
 
 export default function DayList(){
-    const days=useFetch('http://localhost:3001/days')
+    const days=useFetch('http://localhost:3001/days');
+    if(days.length===0){
+        return <span>Loading...</span>
+    }
     // const [days,setDays]=useState([])
     
     // useEffect(()=>{

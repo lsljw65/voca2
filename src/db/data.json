@@ -73,6 +73,13 @@
       "eng": "monkey",
       "kor": "원숭이",
       "isDone": false
+    },
+    {
+      "id": "6277",
+      "day": "4",
+      "eng": "banna",
+      "kor": "바나나",
+      "isDone": false
     }
   ]
 }
